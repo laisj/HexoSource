@@ -8,3 +8,5 @@ Welcome to [*laisj's github page*](http://laisj.github.io)!
 This is the very first post. 
 
 now it will be edit in both of my computers.
+
+now the debugging is almost done
